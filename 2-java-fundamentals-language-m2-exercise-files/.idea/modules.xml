@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/after/HelloNetBeans/HelloNetBeans.iml" filepath="$PROJECT_DIR$/after/HelloNetBeans/HelloNetBeans.iml" />
+      <module fileurl="file://$PROJECT_DIR$/after/HelloWorld/HelloWorld.iml" filepath="$PROJECT_DIR$/after/HelloWorld/HelloWorld.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../3-java-fundamentals-language-m3-exercise-files/after/MathOrder/MathOrder.iml" filepath="$PROJECT_DIR$/../3-java-fundamentals-language-m3-exercise-files/after/MathOrder/MathOrder.iml" />
+      <module fileurl="file://$PROJECT_DIR$/after/Organized/Organized.iml" filepath="$PROJECT_DIR$/after/Organized/Organized.iml" />
+    </modules>
+  </component>
+</project>

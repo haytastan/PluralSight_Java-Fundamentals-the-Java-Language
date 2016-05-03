@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="CalcEngine_jar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/out/artifacts/CalcEngine_jar/CalcEngine.jar!/" />
+      <root url="jar://$PROJECT_DIR$/out/artifacts/CalcEngine_jar/CalcEngine.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

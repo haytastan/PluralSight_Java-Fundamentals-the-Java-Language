@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/MathOrder.iml" filepath="$PROJECT_DIR$/MathOrder.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MathOrder1.iml" filepath="$PROJECT_DIR$/MathOrder1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../TypeConversion/TypeConversion.iml" filepath="$PROJECT_DIR$/../TypeConversion/TypeConversion.iml" />
+    </modules>
+  </component>
+</project>
