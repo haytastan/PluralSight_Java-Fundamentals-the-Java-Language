@@ -36,8 +36,10 @@ public class CalculateHelper {
             // exception otomatik fırlatılır: "throw new NumberFormatException (e)" olarak düşün
         } catch (NumberFormatException e) {
             throw new InvalidStatementException("Non-numeric data", statement, e);
-            // with "e" we do not wanna lose the fact that
-            // this was triggered by another exception
+            // with "e" we do not wanna lose the fact that this was triggered by another exception
+//            throw kw sayesinde ve throw ile fırlatılan exceptionın catch ile
+//            yakalanmamış olması sayesinde ve onun yerine throws kw sayesinde
+//            exception class dışına fırlatılır
         }
         setCommandFromString(commandString);
         if(command == null)
